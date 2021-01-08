@@ -3,6 +3,7 @@ Hello world！我是 Carrie Anne，欢迎收看计算机科学速成课！
 
 Over the course of this series, we're going to go from bits, bytes, transistors and logic gates,
 在这个系列中，我们会学习 Bits(位)，Bytes(字节)，晶体管, 逻辑门，
+】
 
 all the way to Operating Systems, Virtual Reality and Robots!
 一直到操作系统，虚拟现实和机器人!
